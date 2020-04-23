@@ -1,0 +1,8 @@
+.App-list__filter-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.App-list__filter-item{
+
+}

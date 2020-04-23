@@ -1,0 +1,12 @@
+.App-list__booking-item {
+    width: 350px;
+    padding: 20px;
+    background-color: #b2b2b2;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+.App-list__booking-item__row {
+    text-align: left;
+    display: flex;
+}

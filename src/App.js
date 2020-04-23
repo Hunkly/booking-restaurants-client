@@ -59,6 +59,7 @@ export function createCafeItem(bookings, toggle, setBookings, setToggle, id, nam
     }
 }
 
+
 export function getData(setBookings){
     axios({
         method: 'get',

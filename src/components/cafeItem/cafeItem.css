@@ -1,0 +1,19 @@
+.App-list-item {
+    width: 450px;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 17px;
+    color: #000;
+    margin-top: 10px;
+}
+
+.App-list__item__row{
+    display: flex;
+    align-items: center;
+}
+
+p {
+    min-width: 150px;
+}
