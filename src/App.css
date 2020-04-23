@@ -12,6 +12,24 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.App-login-header{
+  background-color: #3a3a3a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  height: 100vh;
+  font-size: 18px;
+  color: white;
+}
+
+.App-login-form{
+  width: 50%;
+}
+
+.App-login-form a {
+  margin-top: 20px;
+}
 
 .App-header, .App-form{
   background-color: #3a3a3a;
@@ -60,6 +78,10 @@
 .App-title h2 {
   margin-left: 5px;
   margin-right: 5px;
+}
+
+.App-login-form p {
+  color: red;
 }
 
 
